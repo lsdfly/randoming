@@ -1,11 +1,11 @@
 {
   "name": "randoming",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
-  "main": "dist/index.es.js",
-  "module": "dist/index.es.js",
-  "unpkg": "dist/index.es.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "unpkg": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib/",
     "yarn.lock"
